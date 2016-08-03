@@ -1,4 +1,5 @@
 *~
-/word2vec/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__MACOSX/
 /word2vec/checkpoint
 /word2vec/data/checkpoint
